@@ -1,0 +1,9 @@
+
+curl -X POST --header "Authorization: key=AAAAkfNCwtw:APA91bHaKCHV82fMkzrHZx1Lv1mRP3yVYCPHOyhDecsbkBP5Z5aiQgjP8npqiga1b6nZM2febffyNAEtmu0LwPmslsT_eRyU-9v91sgqmQ_QTrJqjflVDmFskwqMk0dWdFJbSHr8xSQg" --header "Content-Type: application/json" https://fcm.googleapis.com/fcm/send -d "{\"to\":\"fvR_mboKsdQ:APA91bH8-MR8e6wTMNPYijJZcOZKy3FQIrFDTMqkmsBL20uNwBYGVjK2Lky2FNCJmfS8-fRY6kefws6DPwwa5AHT0jX_o83vUeNP744TwfL_FJlGfLVmHt9cwlC47tNOwQLLpcHZxUfD\",\"priority\":\"high\",\"notification\":{\"body\": \"FOO BAR BLA BLA\"}}"
+
+
+
+
+
+
+
