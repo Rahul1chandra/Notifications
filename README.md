@@ -1,4 +1,4 @@
-# Notifications
+# Push Notifications FCM
 
 This Repository is Mainly used for Web Notifications
 
